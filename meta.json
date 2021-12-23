@@ -32,5 +32,22 @@
             "y": 2,
             "z": 2
         }
+    },
+    "3,-2,4":{
+        "name":"Saturn",
+        "spaceName":"Saturn",
+        "desc":"You could own a whole planet just to build a house on it! But Saturn is not a very stable place for a house.. You should try on mars first",
+        "website":"https://www.spacetimemeta.io/#/home",
+        "ipfsSource":{
+            "img":"QmdT5NzCE2WLUnLAvEpKdx2Z2CBkZ8eSUAnucz4HCLf1Pt",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "mtl":"QmZXcsJphyUKE6SwwxjUsGbbM291b5iyrg1vRAi1tC3KHg",
+            "obj":"QmS7iK4EoWxz6dY9saedFxkw2KUMf24NLNFnprNVqeVU7S"
+        },
+        "location":{
+            "x": 3,
+            "y": -2,
+            "z": 4
+        }
     }
 }
