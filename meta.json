@@ -83,5 +83,22 @@
             "y": 2,
             "z": -2
         }
+    },
+    "3,-2,-4":{
+        "name":"Spacetime Meta",
+        "spaceName":"Golf Planet",
+        "desc":"With NFTs, you can create clubs in the Spacetime Meta. Here is a demo Golf Planet",
+        "website":"https://www.spacetimemeta.io/#/home",
+        "ipfsSource":{
+            "img":"QmcEHo34HvWNeRYNCSqrDEEmBMgFC6gHxTRdrKRZY9Psfx",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "mtl":"QmU3XzW3RCtkJMkngXYHnMRNoSRF3484htrdHxvxVgsiFL",
+            "obj":"QmbZbyH9CN4Lh9zM55DdM5nk4DyYCnyu3TTZmuWDxGjkRa"
+        },
+        "location":{
+            "x": 3,
+            "y": -2,
+            "z": -4
+        }
     }
 }
