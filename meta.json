@@ -100,5 +100,22 @@
             "y": -2,
             "z": -4
         }
+    },
+    "-5,-1,-4":{
+        "name":"Spacetime Meta",
+        "spaceName":"Asteroids",
+        "desc":"You can place whatever 3D object you like in your Space Chunk. Here are some asteroids",
+        "website":"https://www.spacetimemeta.io/#/home",
+        "ipfsSource":{
+            "img":"QmePzbCVm9quoNFoACS1XR8VZtoLzDZSCE7S9D12GxvCML",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "mtl":"QmbxKNwfs4PF3z9QmKGPBhsRRVaPsymY9WTzBipVA6Rju4",
+            "obj":"QmdRzVqSNBY3e3pKHtRxUxD9RinjEZyUPYojAa3FX8DRug"
+        },
+        "location":{
+            "x": -5,
+            "y": -1,
+            "z": -4
+        }
     }
 }
