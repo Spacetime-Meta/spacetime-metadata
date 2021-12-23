@@ -66,5 +66,22 @@
             "y": 2,
             "z": 0
         }
+    },
+    "5,2,-2":{
+        "name":"Spacetime Meta",
+        "spaceName":"Party Planet",
+        "desc":"When the full version goes live, flying into an object will send you to a Metaverse!",
+        "website":"https://www.spacetimemeta.io/#/home",
+        "ipfsSource":{
+            "img":"QmdYf3d6BXqEAtziFNbVLerzt3kzyDA7vr1D7Zwb5ZTxyo",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "mtl":"QmP3WjruS7pBqTU25NN7M2cxWqwzCumjEghHKkFuByzktH",
+            "obj":"QmXQyA3vX3ZMtMAFtHw46i7BSqDXL9cv13ZQu74VNAqsHn"
+        },
+        "location":{
+            "x": 5,
+            "y": 2,
+            "z": -2
+        }
     }
 }
