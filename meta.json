@@ -5,7 +5,7 @@
         "desc":"This project is the Metaverse you where looking for! Welcome home.",
         "website":"https://www.spacetimemeta.io/#/home",
         "ipfsSource":{
-            "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
+            "img":"QmbtNPBXda9WZZtRhBZ8Crbc2UWswGPsXXU324QyCWXQEW",
             "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
             "mtl":"QmTdAtjCWhNeWe4BwR4G6s4ihg75sxwNV7SiN25g2YGaxY",
             "obj":"QmdNzzFGN4XADXzXztnqS6x7jvvXqykChP8na6pmZZS5TW"
@@ -17,12 +17,12 @@
         }
     },
     "2,2,2":{
-        "name":"Planet",
+        "name":"Spacetime Meta",
         "spaceName":"Demo Station",
-        "desc":"Welcome home! This is a space station.",
+        "desc":"This is a space station. In the Spacetime metaverse you can add custom items to your Space Chunk",
         "website":"https://www.spacetimemeta.io/#/home",
         "ipfsSource":{
-            "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
+            "img":"QmUGAajWGZHtN4bcUS8J31157nk29w4VRDEhpatS3RAXur",
             "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
             "mtl":"QmVeKdgf7PFgkQEWY68UQj4rKDR7BuBWWuq8DtFLqaaTfx",
             "obj":"QmTG4pYzKeRWi1BTcuxsLUZTEHJzVY3JT2QwWmtTcPkiAa"
@@ -34,7 +34,7 @@
         }
     },
     "3,-2,4":{
-        "name":"Saturn",
+        "name":"Spacetime Meta",
         "spaceName":"Saturn",
         "desc":"You could own a whole planet just to build a house on it! But Saturn is not a very stable place for a house.. You should try on mars first",
         "website":"https://www.spacetimemeta.io/#/home",
@@ -48,6 +48,23 @@
             "x": 3,
             "y": -2,
             "z": 4
+        }
+    },
+    "-3,2,0":{
+        "name":"Spacetime Meta",
+        "spaceName":"Red Planet",
+        "desc":"You can place whatever 3D object you like in your Space Chunk. Here is a custom planet.",
+        "website":"https://www.spacetimemeta.io/#/home",
+        "ipfsSource":{
+            "img":"QmaQXCEcF37wHHVYuNYMK1jKi6PG1AVYjzrmxUgEQEmpHq",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "mtl":"QmXeqVmpPkqDL4gFb8KaqskDrpvwFUTcQrr3xx6wEsxMAE",
+            "obj":"QmQVe7LyX3e6X3QhrXRX13hBay8CqL57esATCXDZYpXFkh"
+        },
+        "location":{
+            "x": -3,
+            "y": 2,
+            "z": 0
         }
     }
 }
