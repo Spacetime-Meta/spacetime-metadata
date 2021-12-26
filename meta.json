@@ -1,121 +1,19 @@
 {
     "0,0,0":{
         "name":"Spacetime Meta",
-        "spaceName":"Spawn Planet",
-        "desc":"This project is the Metaverse you where looking for! Welcome home.",
-        "website":"https://www.spacetimemeta.io/#/home",
+        "short":"This project is the Metaverse you where looking for!",
+        "link":"https://www.spacetimemeta.io/#/home",
         "ipfsSource":{
             "img":"QmbtNPBXda9WZZtRhBZ8Crbc2UWswGPsXXU324QyCWXQEW",
             "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
             "mtl":"QmTdAtjCWhNeWe4BwR4G6s4ihg75sxwNV7SiN25g2YGaxY",
-            "obj":"QmdNzzFGN4XADXzXztnqS6x7jvvXqykChP8na6pmZZS5TW"
+            "obj":"QmdNzzFGN4XADXzXztnqS6x7jvvXqykChP8na6pmZZS5TW",
+            "txt":"QmXU4LEAgfLw1wPCrKvfx6PxiG1eNHGeoASeP9F3M7rnS2"
         },
         "location":{
             "x": 0,
             "y": 0,
             "z": 0
-        }
-    },
-    "2,2,2":{
-        "name":"Spacetime Meta",
-        "spaceName":"Demo Station",
-        "desc":"This is a space station. In the Spacetime metaverse you can add custom items to your Space Chunk",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmUGAajWGZHtN4bcUS8J31157nk29w4VRDEhpatS3RAXur",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmVeKdgf7PFgkQEWY68UQj4rKDR7BuBWWuq8DtFLqaaTfx",
-            "obj":"QmTG4pYzKeRWi1BTcuxsLUZTEHJzVY3JT2QwWmtTcPkiAa"
-        },
-        "location":{
-            "x": 2,
-            "y": 2,
-            "z": 2
-        }
-    },
-    "3,-2,4":{
-        "name":"Spacetime Meta",
-        "spaceName":"Saturn",
-        "desc":"You could own a whole planet just to build a house on it! But Saturn is not a very stable place for a house.. You should try on mars first",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmdT5NzCE2WLUnLAvEpKdx2Z2CBkZ8eSUAnucz4HCLf1Pt",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmZXcsJphyUKE6SwwxjUsGbbM291b5iyrg1vRAi1tC3KHg",
-            "obj":"QmS7iK4EoWxz6dY9saedFxkw2KUMf24NLNFnprNVqeVU7S"
-        },
-        "location":{
-            "x": 3,
-            "y": -2,
-            "z": 4
-        }
-    },
-    "-3,2,0":{
-        "name":"Spacetime Meta",
-        "spaceName":"Red Planet",
-        "desc":"You can place whatever 3D object you like in your Space Chunk. Here is a custom planet.",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmaQXCEcF37wHHVYuNYMK1jKi6PG1AVYjzrmxUgEQEmpHq",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmXeqVmpPkqDL4gFb8KaqskDrpvwFUTcQrr3xx6wEsxMAE",
-            "obj":"QmQVe7LyX3e6X3QhrXRX13hBay8CqL57esATCXDZYpXFkh"
-        },
-        "location":{
-            "x": -3,
-            "y": 2,
-            "z": 0
-        }
-    },
-    "5,2,-2":{
-        "name":"Spacetime Meta",
-        "spaceName":"Party Planet",
-        "desc":"When the full version goes live, flying into an object will send you to a Metaverse!",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmdYf3d6BXqEAtziFNbVLerzt3kzyDA7vr1D7Zwb5ZTxyo",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmP3WjruS7pBqTU25NN7M2cxWqwzCumjEghHKkFuByzktH",
-            "obj":"QmXQyA3vX3ZMtMAFtHw46i7BSqDXL9cv13ZQu74VNAqsHn"
-        },
-        "location":{
-            "x": 5,
-            "y": 2,
-            "z": -2
-        }
-    },
-    "3,-2,-4":{
-        "name":"Spacetime Meta",
-        "spaceName":"Golf Planet",
-        "desc":"With NFTs, you can create clubs in the Spacetime Meta. Here is a demo Golf Planet",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmcEHo34HvWNeRYNCSqrDEEmBMgFC6gHxTRdrKRZY9Psfx",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmU3XzW3RCtkJMkngXYHnMRNoSRF3484htrdHxvxVgsiFL",
-            "obj":"QmbZbyH9CN4Lh9zM55DdM5nk4DyYCnyu3TTZmuWDxGjkRa"
-        },
-        "location":{
-            "x": 3,
-            "y": -2,
-            "z": -4
-        }
-    },
-    "-5,-1,-4":{
-        "name":"Spacetime Meta",
-        "spaceName":"Asteroids",
-        "desc":"You can place whatever 3D object you like in your Space Chunk. Here are some asteroids",
-        "website":"https://www.spacetimemeta.io/#/home",
-        "ipfsSource":{
-            "img":"QmePzbCVm9quoNFoACS1XR8VZtoLzDZSCE7S9D12GxvCML",
-            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-            "mtl":"QmbxKNwfs4PF3z9QmKGPBhsRRVaPsymY9WTzBipVA6Rju4",
-            "obj":"QmdRzVqSNBY3e3pKHtRxUxD9RinjEZyUPYojAa3FX8DRug"
-        },
-        "location":{
-            "x": -5,
-            "y": -1,
-            "z": -4
         }
     }
 }
