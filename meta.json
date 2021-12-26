@@ -4,6 +4,7 @@
             "name":"Spacetime Meta",
             "short":"This project is the Metaverse you where looking for!",
             "link":"https://www.spacetimemeta.io/#/home",
+            "prtl":"http://127.0.0.1:5500/public/home.html",
             "ipfsSource":{
                 "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
                 "mtl":"QmdZTeqBVSgagH6Wm4Awo7LLX8fAkgG3hqqiUN3oMZDzXD",
