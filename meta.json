@@ -6,6 +6,7 @@
             "link":"https://www.spacetimemeta.io/#/home",
             "prtl":"http://127.0.0.1:5500/public/home.html",
             "ipfsSource":{
+                "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
                 "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
                 "mtl":"QmdZTeqBVSgagH6Wm4Awo7LLX8fAkgG3hqqiUN3oMZDzXD",
                 "obj":"Qmd55rLa2MLQch7AzBJYJzKMtTBa48JU8tf9NPqgxGPuSc",
