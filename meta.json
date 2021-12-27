@@ -42,7 +42,7 @@
             "link":"http://project2090.com/",
             "prtl":"https://www.muse.place/project-2090",
             "ipfsSource":{
-                "img":"https://media.discordapp.net/attachments/922512310709395538/924896026316382258/ListingJpg1080.jpg?width=1031&height=580",
+                "img":"https://media.discordapp.net/attachments/922512310709395538/925037941540134952/museworld.png?width=1074&height=604",
                 "logo":"https://media.discordapp.net/attachments/922512310709395538/924896645131436102/16.png?width=580&height=580",
                 "mtl":"QmT5frpK44ee5Pj3AiAprJTop93tVUW9k5mTGLxpUewNz4",
                 "obj":"QmeHjmFikfZxciaNvihndxs9HdAtQjw3J9RAERxdXcoggL",
@@ -53,23 +53,46 @@
                 "y": 3,
                 "z": -5
             }
+        },
+        "-4,-3,5":{
+            "name":"Muse Place",
+            "short":"Create 3D Space",
+            "link":"https://twitter.com/musehq_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "prtl":"https://www.muse.place/",
+            "ipfsSource":{
+                "img":"https://media.discordapp.net/attachments/922512310709395538/924896026316382258/ListingJpg1080.jpg?width=1031&height=580",
+                "logo":"https://d27rt3a60hh1lx.cloudfront.net/images/muselogogray.png",
+                "mtl":"QmbwvQyMemc7ESaaumuLms4mprpm14UbzAbtEB3buXkehe",
+                "obj":"QmfH4LAJjSfv9HjVSj1FXeAcAZqQKvektGsA1DymLCsryt",
+                "txt":"QmZ4JCVxXomUCuE4Ayre3WjQPmtJff2fKw59UUzQ8P2V5D"
+            },
+            "location":{
+                "x": -4,
+                "y": -3,
+                "z": 5
+            }
         }
     },
     "chunks":{
         "0,0,0":{
-            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e1234x2",
+            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e12demo",
             "assetName": "Demo Space Chunk 0",
             "id": "0"
         },
         "8,1,-8":{
-            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e78g6x2",
+            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e78demo",
             "assetName": "Demo Space Chunk 677",
             "id": "677"
         },
         "6,3,-5":{
-            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78gery",
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
             "assetName": "Demo Space Chunk 456",
             "id": "456"
+        },
+        "-4,-3,5":{
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
+            "assetName": "Demo Space Chunk 893",
+            "id": "893"
         }
     }
 }
