@@ -17,6 +17,24 @@
                 "y": 0,
                 "z": 0
             }
+        },
+        "8,1,-8":{
+            "name":"Floor Is Lava",
+            "short":"How high can you go?",
+            "link":"https://www.spacetimemeta.io/",
+            "prtl":"http://127.0.0.1:5500/public/floorIsLava.html",
+            "ipfsSource":{
+                "img":"Qma8uqYBjXVVyfZPHUngC2PYvrTcpwQpicdjLiLtQvjUh2",
+                "logo":"QmPrL3GDT28X1aZmfAWfM2KdFtvRobEmKZR35UjDWLDGUK",
+                "mtl":"QmXeqVmpPkqDL4gFb8KaqskDrpvwFUTcQrr3xx6wEsxMAE",
+                "obj":"QmQVe7LyX3e6X3QhrXRX13hBay8CqL57esATCXDZYpXFkh",
+                "txt":"QmXU4LEAgfLw1wPCrKvfx6PxiG1eNHGeoASeP9F3M7rnS2"
+            },
+            "location":{
+                "x": 8,
+                "y": 1,
+                "z": -8
+            }
         }
     },
     "chunks":{
