@@ -35,6 +35,24 @@
                 "y": 1,
                 "z": -8
             }
+        },
+        "6,3,-5":{
+            "name":"Project 2090",
+            "short":"Avatars For Metaverse",
+            "link":"http://project2090.com/",
+            "prtl":"https://www.muse.place/dariens",
+            "ipfsSource":{
+                "img":"Qma8uqYBjXVVyfZPHUngC2PYvrTcpwQpicdjLiLtQvjUh2",
+                "logo":"QmPrL3GDT28X1aZmfAWfM2KdFtvRobEmKZR35UjDWLDGUK",
+                "mtl":"QmZNPHi9haV3EN37J8rTnSXfhE9p9MtMs4qFFWJRHD27K9",
+                "obj":"QmaV8cKU6P5Jv33JxQjRsfUamR5UGNdB16x4mTLKGNRMP6",
+                "txt":"QmUhRsaHHfdGLYQtYtNwW4C12upgksxSoHMF9vkKbwL3Gi"
+            },
+            "location":{
+                "x": 6,
+                "y": 3,
+                "z": -5
+            }
         }
     },
     "chunks":{
@@ -47,6 +65,11 @@
             "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e78g6x2",
             "assetName": "Demo Space Chunk 677",
             "id": "677"
+        },
+        "6,3,-5":{
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78gery",
+            "assetName": "Demo Space Chunk 456",
+            "id": "456"
         }
     }
 }
