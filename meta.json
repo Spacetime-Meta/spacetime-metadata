@@ -4,7 +4,7 @@
             "name":"Spacetime Meta",
             "short":"This project is the Metaverse you where looking for!",
             "link":"https://www.spacetimemeta.io/#/home",
-            "prtl":"http://127.0.0.1:5500/public/home.html",
+            "prtl":"https://www.spacetimemeta.io/spawnPlanet.html,
             "ipfsSource":{
                 "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
                 "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
@@ -22,7 +22,7 @@
             "name":"Floor Is Lava",
             "short":"How high can you go?",
             "link":"https://www.spacetimemeta.io/",
-            "prtl":"http://127.0.0.1:5500/public/floorIsLava.html",
+            "prtl":"https://www.spacetimemeta.io/floorIsLava.html",
             "ipfsSource":{
                 "img":"Qma8uqYBjXVVyfZPHUngC2PYvrTcpwQpicdjLiLtQvjUh2",
                 "logo":"QmPrL3GDT28X1aZmfAWfM2KdFtvRobEmKZR35UjDWLDGUK",
