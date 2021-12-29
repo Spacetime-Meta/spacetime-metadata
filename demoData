@@ -63,6 +63,22 @@
                 "y": -3,
                 "z": 5
             }
+        },
+         "0,2,-5":{
+            "name":"Noss K",
+            "short":"Listen to some rock music",
+            "link":"https://www.facebook.com/NossKranitz",
+            "prtl":"https://www.muse.place/nossk",
+            "img":"https://i1.sndcdn.com/artworks-000490320585-r2vbbb-t500x500.jpg?width=1074&height=604",
+            "logo":"https://i1.sndcdn.com/avatars-000099972553-0oz44t-t500x500.jpg",
+            "mtl":"?",
+            "obj":"?",
+            "txt":"?",
+            "location":{
+                "x": 0,
+                "y": 2,
+                "z": -5
+            }
         }
     },
     "chunks":{
