@@ -1,0 +1,102 @@
+{
+    "metamap":{
+        "0,0,0":{
+            "name":"Spacetime Meta",
+            "short":"This project is the Metaverse you where looking for!",
+            "link":"https://www.spacetimemeta.io/",
+            "prtl":"https://www.spacetimemeta.io/demo/spawnPlanet.html",
+            "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
+            "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+            "icon":{
+                "type": ".obj",
+                "mtl":"QmdZTeqBVSgagH6Wm4Awo7LLX8fAkgG3hqqiUN3oMZDzXD",
+                "obj":"Qmd55rLa2MLQch7AzBJYJzKMtTBa48JU8tf9NPqgxGPuSc"
+            },
+            "txt":"QmXU4LEAgfLw1wPCrKvfx6PxiG1eNHGeoASeP9F3M7rnS2",
+            "location":{
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "8,1,-8":{
+            "name":"Floor Is Lava",
+            "short":"Floor Is Danger!<br>Floor Is No Good!",
+            "link":"https://www.spacetimemeta.io/",
+            "prtl":"https://www.spacetimemeta.io/demo/floorIsLava.html",
+            "img":"https://media.discordapp.net/attachments/925045793780543568/925122428257046598/floorIsLavaBanner.png?width=1008&height=567",
+            "logo":"https://media.discordapp.net/attachments/925045793780543568/925122361697636412/floorIsLavaIcon.png",
+            "icon":{
+                "type": ".obj",
+                "mtl":"QmXeqVmpPkqDL4gFb8KaqskDrpvwFUTcQrr3xx6wEsxMAE",
+                "obj":"QmQVe7LyX3e6X3QhrXRX13hBay8CqL57esATCXDZYpXFkh"
+            },
+            "txt":"QmUhRsaHHfdGLYQtYtNwW4C12upgksxSoHMF9vkKbwL3Gi",
+            "location":{
+                "x": 8,
+                "y": 1,
+                "z": -8
+            }
+        },
+        "6,3,-5":{
+            "name":"Project 2090",
+            "short":"Avatars For Metaverse",
+            "link":"http://project2090.com/",
+            "prtl":"https://www.muse.place/project-2090",
+            "img":"https://media.discordapp.net/attachments/922512310709395538/925037941540134952/museworld.png?width=1074&height=604",
+            "logo":"https://media.discordapp.net/attachments/922512310709395538/924896645131436102/16.png?width=580&height=580",
+            "icon":{
+                "type": ".obj",
+                "mtl":"QmT5frpK44ee5Pj3AiAprJTop93tVUW9k5mTGLxpUewNz4",
+                "obj":"QmeHjmFikfZxciaNvihndxs9HdAtQjw3J9RAERxdXcoggL"
+            },
+            "txt":"QmZ4JCVxXomUCuE4Ayre3WjQPmtJff2fKw59UUzQ8P2V5D",
+            "location":{
+                "x": 6,
+                "y": 3,
+                "z": -5
+            }
+        },
+        "-4,-3,5":{
+            "name":"Muse Place",
+            "short":"Create 3D Space",
+            "link":"https://twitter.com/musehq_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "prtl":"https://www.muse.place/",
+            "img":"https://media.discordapp.net/attachments/925045793780543568/925049221382553600/Muse_-_Google_Chrome_2021-12-27_10_14_17_AM.png?width=1074&height=604",
+            "logo":"https://d27rt3a60hh1lx.cloudfront.net/images/muselogogray.png",
+            "icon":{
+                "type": ".obj",
+                "mtl":"QmbwvQyMemc7ESaaumuLms4mprpm14UbzAbtEB3buXkehe",
+                "obj":"QmfH4LAJjSfv9HjVSj1FXeAcAZqQKvektGsA1DymLCsryt"
+            },
+            "txt":"QmcQtTSH8MpwPQMovK3Joym3N3tpqgUBMuk59NogGyvCtX",
+            "location":{
+                "x": -4,
+                "y": -3,
+                "z": 5
+            }
+        }
+    },
+    "chunks":{
+        "0,0,0":{
+            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e12demo",
+            "assetName": "Demo Space Chunk 0",
+            "id": "0"
+        },
+        "8,1,-8":{
+            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e78demo",
+            "assetName": "Demo Space Chunk 677",
+            "id": "677"
+        },
+        "6,3,-5":{
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
+            "assetName": "Demo Space Chunk 456",
+            "id": "456"
+        },
+        "-4,-3,5":{
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
+            "assetName": "Demo Space Chunk 893",
+            "id": "893"
+        }
+    }
+}
