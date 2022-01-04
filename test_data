@@ -75,6 +75,25 @@
                 "y": -3,
                 "z": 5
             }
+        },
+        "6,-6,-6":{
+            "name":"Traumwelt",
+            "short":"Here you can find The Space Artisant",
+            "link":"https://www.muse.place/traumwelt",
+            "prtl":"https://www.muse.place/traumwelt",
+            "img":"https://cdn.discordapp.com/attachments/919999464087900221/926913175042023564/musicgraph2.png",
+            "logo":"https://cdn.discordapp.com/attachments/919999464087900221/926912833168490526/musicgraphpourblog.png",
+            "icon":{
+                "type": ".obj",
+                "mtl":"QmZXcsJphyUKE6SwwxjUsGbbM291b5iyrg1vRAi1tC3KHg",
+                "obj":"QmS7iK4EoWxz6dY9saedFxkw2KUMf24NLNFnprNVqeVU7S"
+            },
+            "txt":"QmQQaEfwkdXNW5x1rYsbHjJXrDWDuSfz2mMu2N5MYnVQwC",
+            "location":{
+                "x": 6,
+                "y": -6,
+                "z": -6
+            }
         }
     },
     "chunks":{
@@ -97,6 +116,11 @@
             "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
             "assetName": "Demo Space Chunk 893",
             "id": "893"
+        },
+        "6,-6,-6":{
+            "fingerprint": "asset345n4lfs45azy9wktshello2thc72y73645demo",
+            "assetName": "Demo Space Chunk 346",
+            "id": "346"
         }
     }
 }
