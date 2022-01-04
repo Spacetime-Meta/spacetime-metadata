@@ -76,7 +76,7 @@
                 "z": 5
             }
         },
-        "6,-6,-6":{
+        "6,-6,6":{
             "name":"Traumwelt",
             "short":"Here you can find The Space Artisant",
             "link":"https://www.muse.place/traumwelt",
@@ -92,7 +92,7 @@
             "location":{
                 "x": 6,
                 "y": -6,
-                "z": -6
+                "z": 6
             }
         }
     },
@@ -117,7 +117,7 @@
             "assetName": "Demo Space Chunk 893",
             "id": "893"
         },
-        "6,-6,-6":{
+        "6,-6,6":{
             "fingerprint": "asset345n4lfs45azy9wktshello2thc72y73645demo",
             "assetName": "Demo Space Chunk 346",
             "id": "346"
