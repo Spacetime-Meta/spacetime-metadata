@@ -78,33 +78,20 @@
                 "y": -6,
                 "z": 6
             }
-        }
-    },
-    "chunks":{
-        "0,0,0":{
-            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e12demo",
-            "assetName": "Demo Space Chunk 0",
-            "id": "0"
         },
-        "8,1,-8":{
-            "fingerprint": "asset1smn4lfs35azy9wktsgusqe2thc72yn0e78demo",
-            "assetName": "Demo Space Chunk 677",
-            "id": "677"
-        },
-        "6,3,-5":{
-            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
-            "assetName": "Demo Space Chunk 456",
-            "id": "456"
-        },
-        "-4,-3,5":{
-            "fingerprint": "asset345n4lfs45azy9wktshello2thc72yn0e78demo",
-            "assetName": "Demo Space Chunk 893",
-            "id": "893"
-        },
-        "6,-6,6":{
-            "fingerprint": "asset345n4lfs45azy9wktshello2thc72y73645demo",
-            "assetName": "Demo Space Chunk 346",
-            "id": "346"
+        "10,7,4":{
+            "name":"$ADAMOON",
+            "prtl":"https://cardanomoon.io/",
+            "img":"https://cdn.discordapp.com/attachments/925045793780543568/929148641791311952/unknown.png,
+            "logo":"https://cardanomoon.io/wp-content/uploads/2021/11/favicon.png",
+            "icon":{
+                "type": "gen"
+            },
+            "location":{
+                "x": 10,
+                "y": 7,
+                "z": 4
+            }
         }
     }
 }
