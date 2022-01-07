@@ -92,6 +92,20 @@
                 "y": 7,
                 "z": 4
             }
+        },
+        "-5,-7,-5":{
+            "name":"CATS CORPORATION",
+            "prtl":"https://thecatscorporation.com/",
+            "img":"https://cdn.discordapp.com/attachments/925045793780543568/929153434375049276/unknown.png",
+            "logo":"https://miro.medium.com/fit/c/262/262/1*At54td0kU8lg6fsVW-8DHQ.png",
+            "icon":{
+                "type": "gen"
+            },
+            "location":{
+                "x": -5,
+                "y": -7,
+                "z": -5
+            }
         }
     }
 }
