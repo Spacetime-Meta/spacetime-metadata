@@ -2,8 +2,6 @@
     "metamap":{
         "0,0,0":{
             "name":"Spacetime Meta",
-            "short":"This project is the Metaverse you where looking for!",
-            "link":"https://www.spacetimemeta.io/",
             "prtl":"https://www.spacetimemeta.io/",
             "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
             "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
@@ -21,8 +19,6 @@
         },
         "8,1,-8":{
             "name":"Floor Is Lava",
-            "short":"Floor Is Danger!<br>Floor Is No Good!",
-            "link":"https://www.spacetimemeta.io/",
             "prtl":"https://www.spacetimemeta.io/demo/floorIsLava.html",
             "img":"https://media.discordapp.net/attachments/925045793780543568/925122428257046598/floorIsLavaBanner.png?width=1008&height=567",
             "logo":"https://media.discordapp.net/attachments/925045793780543568/925122361697636412/floorIsLavaIcon.png",
@@ -40,8 +36,6 @@
         },
         "6,3,-5":{
             "name":"Project 2090",
-            "short":"Avatars For Metaverse",
-            "link":"http://project2090.com/",
             "prtl":"https://www.muse.place/project-2090",
             "img":"https://media.discordapp.net/attachments/922512310709395538/925037941540134952/museworld.png?width=1074&height=604",
             "logo":"https://media.discordapp.net/attachments/922512310709395538/924896645131436102/16.png?width=580&height=580",
@@ -59,8 +53,6 @@
         },
         "-4,-3,5":{
             "name":"Muse Place",
-            "short":"Create 3D Space",
-            "link":"https://twitter.com/musehq_?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
             "prtl":"https://www.muse.place/",
             "img":"https://media.discordapp.net/attachments/925045793780543568/925049221382553600/Muse_-_Google_Chrome_2021-12-27_10_14_17_AM.png?width=1074&height=604",
             "logo":"https://d27rt3a60hh1lx.cloudfront.net/images/muselogogray.png",
@@ -78,8 +70,6 @@
         },
         "6,-6,6":{
             "name":"Traumwelt",
-            "short":"Here you can find The Space Artisant",
-            "link":"https://www.muse.place/traumwelt",
             "prtl":"https://www.muse.place/traumwelt",
             "img":"https://cdn.discordapp.com/attachments/919999464087900221/926913175042023564/musicgraph2.png",
             "logo":"https://cdn.discordapp.com/attachments/919999464087900221/926912833168490526/musicgraphpourblog.png",
