@@ -82,7 +82,7 @@
         "10,7,4":{
             "name":"$ADAMOON",
             "prtl":"https://cardanomoon.io/",
-            "img":"https://cdn.discordapp.com/attachments/925045793780543568/929148641791311952/unknown.png,
+            "img":"https://cdn.discordapp.com/attachments/925045793780543568/929148641791311952/unknown.png",
             "logo":"https://cardanomoon.io/wp-content/uploads/2021/11/favicon.png",
             "icon":{
                 "type": "gen"
