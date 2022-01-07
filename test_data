@@ -10,7 +10,6 @@
                 "mtl":"QmdZTeqBVSgagH6Wm4Awo7LLX8fAkgG3hqqiUN3oMZDzXD",
                 "obj":"Qmd55rLa2MLQch7AzBJYJzKMtTBa48JU8tf9NPqgxGPuSc"
             },
-            "txt":"QmXU4LEAgfLw1wPCrKvfx6PxiG1eNHGeoASeP9F3M7rnS2",
             "location":{
                 "x": 0,
                 "y": 0,
@@ -27,7 +26,6 @@
                 "mtl":"QmXeqVmpPkqDL4gFb8KaqskDrpvwFUTcQrr3xx6wEsxMAE",
                 "obj":"QmQVe7LyX3e6X3QhrXRX13hBay8CqL57esATCXDZYpXFkh"
             },
-            "txt":"QmUhRsaHHfdGLYQtYtNwW4C12upgksxSoHMF9vkKbwL3Gi",
             "location":{
                 "x": 8,
                 "y": 1,
@@ -44,28 +42,25 @@
                 "mtl":"QmT5frpK44ee5Pj3AiAprJTop93tVUW9k5mTGLxpUewNz4",
                 "obj":"QmeHjmFikfZxciaNvihndxs9HdAtQjw3J9RAERxdXcoggL"
             },
-            "txt":"QmZ4JCVxXomUCuE4Ayre3WjQPmtJff2fKw59UUzQ8P2V5D",
             "location":{
                 "x": 6,
                 "y": 3,
                 "z": -5
             }
         },
-        "-4,-3,5":{
-            "name":"Muse Place",
-            "prtl":"https://www.muse.place/",
-            "img":"https://media.discordapp.net/attachments/925045793780543568/925049221382553600/Muse_-_Google_Chrome_2021-12-27_10_14_17_AM.png?width=1074&height=604",
-            "logo":"https://d27rt3a60hh1lx.cloudfront.net/images/muselogogray.png",
+        "-20,0,-20":{
+            "name":"new CNFTs",
+            "prtl":"https://newcnfts.io/",
+            "img":"https://cdn.discordapp.com/attachments/916508656894378004/929092220710183042/unknown.png",
+            "logo":"https://cdn.discordapp.com/attachments/925045793780543568/929143335623483412/unknown.png",
             "icon":{
-                "type": ".obj",
-                "mtl":"QmbwvQyMemc7ESaaumuLms4mprpm14UbzAbtEB3buXkehe",
-                "obj":"QmfH4LAJjSfv9HjVSj1FXeAcAZqQKvektGsA1DymLCsryt"
+                "type": ".gltf",
+                "gltf": "QmYD2MJN6rp51GcfRmLdq65QQPcAmR8gMhFShZDrXJnuyg"
             },
-            "txt":"QmcQtTSH8MpwPQMovK3Joym3N3tpqgUBMuk59NogGyvCtX",
             "location":{
-                "x": -4,
-                "y": -3,
-                "z": 5
+                "x": -20,
+                "y": 0,
+                "z": -20
             }
         },
         "6,-6,6":{
@@ -78,7 +73,6 @@
                 "mtl":"QmZXcsJphyUKE6SwwxjUsGbbM291b5iyrg1vRAi1tC3KHg",
                 "obj":"QmS7iK4EoWxz6dY9saedFxkw2KUMf24NLNFnprNVqeVU7S"
             },
-            "txt":"QmQQaEfwkdXNW5x1rYsbHjJXrDWDuSfz2mMu2N5MYnVQwC",
             "location":{
                 "x": 6,
                 "y": -6,
