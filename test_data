@@ -69,9 +69,8 @@
             "img":"https://cdn.discordapp.com/attachments/919999464087900221/926913175042023564/musicgraph2.png",
             "logo":"https://cdn.discordapp.com/attachments/919999464087900221/926912833168490526/musicgraphpourblog.png",
             "icon":{
-                "type": ".obj",
-                "mtl":"QmZXcsJphyUKE6SwwxjUsGbbM291b5iyrg1vRAi1tC3KHg",
-                "obj":"QmS7iK4EoWxz6dY9saedFxkw2KUMf24NLNFnprNVqeVU7S"
+                "type": ".gltf",
+                "gltf": "QmZ9BD1ih5jS9CywuD9EfNwoFXDDgA59Vv1aJCaYRzFtqv"
             },
             "location":{
                 "x": 6,
@@ -114,6 +113,21 @@
             "logo":"https://cryptoraggies.io/assets/images/logo-96x96.png",
             "icon":{
                 "type": "gen"
+            },
+            "location":{
+                "x": -6,
+                "y": 7,
+                "z": 4
+            }
+        },
+        "5,-2,11":{
+            "name":"Shokhibul",
+            "prtl":"https://www.muse.place/shokhibulburhan-metaverse",
+            "img":"https://cdn.discordapp.com/attachments/918010394973454396/931728792735596544/banner.png",
+            "logo":"https://cdn.discordapp.com/attachments/918010394973454396/931730279947710474/IMG-20201226-WA0013.jpg",
+            "icon":{
+                "type": ".gltf",
+                "gltf": "QmZsk3VLZ61SJ6GqfxVJVLJhgpDieirSyJ7fwsKATXeeB1"
             },
             "location":{
                 "x": -6,
