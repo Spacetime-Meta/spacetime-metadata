@@ -119,21 +119,6 @@
                 "y": 7,
                 "z": 4
             }
-        },
-        "5,-2,11":{
-            "name":"Shokhibul",
-            "prtl":"https://www.muse.place/shokhibulburhan-metaverse",
-            "img":"https://cdn.discordapp.com/attachments/918010394973454396/931728792735596544/banner.png",
-            "logo":"https://cdn.discordapp.com/attachments/918010394973454396/931730279947710474/IMG-20201226-WA0013.jpg",
-            "icon":{
-                "type": ".gltf",
-                "gltf": "QmVr1tX6FazHRbQKqyMoBkoVv5S1nbQj5MGV7kkATpoK54"
-            },
-            "location":{
-                "x": 5,
-                "y": -2,
-                "z": 11
-            }
         }
     }
 }
