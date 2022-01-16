@@ -134,6 +134,21 @@
                 "y": -2,
                 "z": 11
             }
-        }
+        },
+        "-15,2,3": {
+            "name": "SPACETIME CUSTOM",
+            "prtl": "https://discord.gg/V9jhGAxuCV",
+            "img": "https://cdn.discordapp.com/attachments/919999464087900221/931847063199678464/banniere_sc.jpg",
+            "logo": "https://cdn.discordapp.com/attachments/874025145491132496/932070204060606564/unknown.png",
+            "icon": {
+                "type": ".gltf",
+                "gltf": "QmUFKoYt9gWMfPaASBgTNCR1wVYBVP4UHcD4ogJSy1D8x2"
+            },
+            "location": {
+                "x": -15,
+                "y": 2,
+                "z": 3
+            }
+       }
     }
 }
