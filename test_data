@@ -149,6 +149,21 @@
                 "y": 2,
                 "z": 3
             }
-       }
+       },
+       "15,2,3": {
+            "name": "Night parade of the 100 demons",
+            "prtl": "https://www.muse.place/npdemons-gallery",
+            "img": "https://cdn.discordapp.com/attachments/929176625713643520/931916419929620550/1920_1080.jpg",
+            "logo": "https://cdn.discordapp.com/attachments/929176625713643520/932751169263132712/logo.jpg",
+            "icon": {
+                "type": ".gltf",
+                "gltf": "QmdpiRzacAYEueiNEKviT8BDML8WQmZ152xmHCYWGWjdCM"
+            },
+            "location": {
+                "x": 15,
+                "y": 2,
+                "z": 3
+            }
+        }
     }
 }
