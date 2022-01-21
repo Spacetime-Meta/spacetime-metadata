@@ -112,7 +112,8 @@
             "img":"https://cdn.discordapp.com/attachments/925045793780543568/929173006700404796/unknown.png",
             "logo":"https://cryptoraggies.io/assets/images/logo-96x96.png",
             "icon":{
-                "type": "gen"
+                "type": ".gltf",
+                "gltf": "QmVr1tX6FazHRbQKqyMoBkoVv5S1nbQj5MGV7kkATpoK54"
             },
             "location":{
                 "x": -6,
