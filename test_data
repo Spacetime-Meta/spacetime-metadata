@@ -6,9 +6,8 @@
             "img":"QmNocJ2SpZ1Q7miEY9iEHMopbdhATy9YF5rUGzSLZLsgGS",
             "logo":"QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
             "icon":{
-                "type": ".obj",
-                "mtl":"QmdZTeqBVSgagH6Wm4Awo7LLX8fAkgG3hqqiUN3oMZDzXD",
-                "obj":"Qmd55rLa2MLQch7AzBJYJzKMtTBa48JU8tf9NPqgxGPuSc"
+                "type": ".gltf",
+                "gltf": "QmdduxgPPUF9xotvqeeMZnbVHqcwZnyLJVU3oNbSWES2e4"
             },
             "location":{
                 "x": 0,
