@@ -158,13 +158,14 @@
          	"icon": {
          		"type": ".gltf",
   	        	"gltf": "QmWHH4C6UEdcU23WVRHgRX5TNBH1TspQSKNUTkLMnguGjW"
-  	},
-  	"location": {
-  		"x": -10,
-  		"y": -10,
-  		"z": 5
-  	}
-  }       ,"15,2,3": {
+  	        },
+            "location": {
+  		        "x": -10,
+  		        "y": -10,
+  		        "z": 5
+  	        }   
+        },
+        "15,2,3": {
             "name": "Night parade of 100 demons",
             "prtl": "https://www.muse.place/npdemons-gallery",
             "img": "https://cdn.discordapp.com/attachments/929176625713643520/931916419929620550/1920_1080.jpg",
