@@ -37,7 +37,7 @@
             "img":"https://media.discordapp.net/attachments/922512310709395538/925037941540134952/museworld.png?width=1074&height=604",
             "logo":"https://media.discordapp.net/attachments/922512310709395538/924896645131436102/16.png?width=580&height=580",
             "icon":{
-                "type": ".obj",
+                "type": ".gltf",
                 "mtl":"QmT5frpK44ee5Pj3AiAprJTop93tVUW9k5mTGLxpUewNz4",
                 "obj":"QmaFM5a19NVJza7Zz1NKNgWc7761ZQLdMQ3gS8MzVucvmg"
             },
