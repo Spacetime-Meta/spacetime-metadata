@@ -164,6 +164,21 @@
   		        "z": -10
   	        }   
         },
+        "13,-5,-8":{
+            "name":"NFT INVADERZ",
+            "prtl":"https://nftinvaderz.com/",
+            "img":"https://cdn.discordapp.com/attachments/937383428268101693/937453539356196894/logo.png",
+            "logo":"https://nftinvaderz.com/wp-content/uploads/sites/2/2021/11/cell_0_95-150x150-1.webp",
+            "icon":{
+                "type": ".gltf",
+                "gltf": "QmZLivHHY6StxrsZGcpkeqnM2YDsyWLhJZFjofPGx4w62E"
+            },
+            "location":{
+                "x": 13,
+                "y": -5,
+                "z": -8
+            }
+        },
         "15,2,3": {
             "name": "Night parade of 100 demons",
             "prtl": "https://www.muse.place/npdemons-gallery",
