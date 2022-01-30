@@ -164,7 +164,7 @@
   		        "z": -10
   	        }   
         },
-        "13,-5,-8":{
+        "30,-7,-13":{
             "name":"NFT INVADERZ",
             "prtl":"https://nftinvaderz.com/",
             "img":"https://cdn.discordapp.com/attachments/937383428268101693/937453539356196894/logo.png",
@@ -174,9 +174,9 @@
                 "gltf": "Qmc6tCvakRoDedL7wASA3TF48XuMgFhguZczVdXhyp4qsL"
             },
             "location":{
-                "x": 13,
-                "y": -5,
-                "z": -8
+                "x": 30,
+                "y": -7,
+                "z": -13
             }
         },
         "15,2,3": {
