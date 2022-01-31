@@ -179,6 +179,21 @@
                 "z": -13
             }
         },
+        "-25,-14,18": {
+            "name": "Masked On Buttons",
+            "prtl": "https://mobcnft.io/mobcity/",
+            "img": "https://cdn.discordapp.com/attachments/874025145491132496/937664909804732427/DISCORD-01.png",
+            "logo": "https://cdn.discordapp.com/attachments/874025145491132496/937664909360123944/LOGO1-05.png",
+            "icon": {
+                "type": ".gltf",
+                "gltf": "QmRPNupW3XighA9vcpNHYJSuq5xh3W5i1zswhhfDHfp3z1"
+            },
+            "location": {
+                "x": -25,
+                "y": -14,
+                "z": 18
+            }
+        },
         "15,2,3": {
             "name": "Night parade of 100 demons",
             "prtl": "https://www.muse.place/npdemons-gallery",
