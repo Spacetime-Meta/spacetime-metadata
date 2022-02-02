@@ -194,6 +194,21 @@
                 "z": 18
             }
         },
+        "-15,10,-5": {
+            "name": "Block Owls",
+            "prtl": "https://www.blockowls.io/",
+            "img": "https://cdn.discordapp.com/attachments/874025145491132496/935744680514179132/BlockOwls.jpg",
+            "logo": "https://cdn.discordapp.com/attachments/874025145491132496/935744760470192198/BlockOwls_Logo_Square.jpg",
+            "icon": {
+                "type": ".gltf",
+                "gltf": "QmW5xvt12C3XMSBV76uFkvkPFLSq445FV2KiXEEq7TSLfV"
+            },
+            "location": {
+                "x": -15,
+                "y": 10,
+                "z": -5
+            }
+        },
         "15,2,3": {
             "name": "Night parade of 100 demons",
             "prtl": "https://www.muse.place/npdemons-gallery",
